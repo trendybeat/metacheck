@@ -1,4 +1,4 @@
-# @trendybeat/utils
+# @trendybeat/metacheck
 
 Utilities for music metadata management, by Trendy Beat Network.
 
@@ -9,4 +9,4 @@ Utilities for music metadata management, by Trendy Beat Network.
 
 ## Installation
 ```bash
-npm install @trendybeat/utils
+npm install @trendybeat/metacheck
