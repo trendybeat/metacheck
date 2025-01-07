@@ -1,6 +1,6 @@
 {
     "name": "@trendybeat/metacheck",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Utilities for music metadata management, by Trendy Beat Network.",
     "main": "index.js",
     "keywords": ["trendybeat", "music", "metadata", "ISRC", "utilities"],
